@@ -808,6 +808,20 @@
           <div class="setor-desc">Qualquer empresa CLT. Admissional, periódico e demissional conforme PCMSO.</div>
         </div>
       </div>
+      <div class="setor-card fade-up" style="transition-delay:.36s">
+        <div class="setor-icon">🏠</div>
+        <div>
+          <div class="setor-name">Radiologia Domiciliar</div>
+          <div class="setor-desc">Método de rastreio de saúde mental. Exame radiológico no domicílio do colaborador com conforto e praticidade.</div>
+        </div>
+      </div>
+      <div class="setor-card fade-up" style="transition-delay:.42s">
+        <div class="setor-icon">🌡️</div>
+        <div>
+          <div class="setor-name">Termografia Corporativa</div>
+          <div class="setor-desc">Método de rastreio de saúde mental. Tecnologia termográfica para avaliação e monitoramento da saúde dos colaboradores.</div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -831,7 +845,7 @@
         <div class="contato-card">
           <div class="contato-card-icon">✉️</div>
           <div class="contato-card-label">E-mail</div>
-          <a class="contato-card-val" href="mailto:contato.radcorp@gmail.com">contato.radcorp@gmail.com</a>
+          <a class="contato-card-val" href="mailto:contato.radiocorp@gmail.com">contato.radiocorp@gmail.com</a>
         </div>
         <div class="contato-card">
           <div class="contato-card-icon">🌐</div>
@@ -842,7 +856,7 @@
 
       <div class="contato-btns">
         <a href="https://wa.me/5521967269228?text=Olá%2C%20gostaria%20de%20conhecer%20o%20serviço%20de%20radiologia%20corporativa" class="btn btn-primary btn-lg" target="_blank" rel="noopener">💬 Falar no WhatsApp</a>
-        <a href="mailto:contato.radcorp@gmail.com" class="btn btn-outline btn-lg">📧 Enviar E-mail</a>
+        <a href="mailto:contato.radiocorp@gmail.com" class="btn btn-outline btn-lg">📧 Enviar E-mail</a>
       </div>
     </div>
   </div>
@@ -863,6 +877,8 @@
           <li><a href="#como">Laudo Padrão OIT</a></li>
           <li><a href="#como">RX de Coluna</a></li>
           <li><a href="#como">RX Articular</a></li>
+          <li><a href="#setores">Radiologia Domiciliar</a></li>
+          <li><a href="#setores">Termografia Corporativa</a></li>
         </ul>
       </div>
       <div class="footer-col">
@@ -878,7 +894,7 @@
         <h5>Contato</h5>
         <ul>
           <li><a href="https://wa.me/5521967269228">(21) 96726-9228</a></li>
-          <li><a href="mailto:contato.radcorp@gmail.com">contato.radcorp@gmail.com</a></li>
+          <li><a href="mailto:contato.radiocorp@gmail.com">contato.radiocorp@gmail.com</a></li>
           <li><a href="https://www.radiologiacorporativa.com.br">radiologiacorporativa.com.br</a></li>
         </ul>
       </div>
